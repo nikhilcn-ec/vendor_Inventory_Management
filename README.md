@@ -36,7 +36,8 @@ The required libraries include:
 
 Alternatively, if you don't have `requirements.txt`, you can install the libraries manually:
 ```bash
-pip install streamlit mysql-connector-python pandas plotly
+pip install streamlit mysql-connector-python pandas plotly python-dotenv==1.0.1
+google-generativeai==0.3.2
 ```
 
 ### Step 3: Set Up MySQL Database
