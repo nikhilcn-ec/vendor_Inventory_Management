@@ -10,7 +10,7 @@ This project is a streamlined inventory management system that enables vendors t
 
 ## Prerequisites
 To run this project, ensure you have the following software and tools installed:
-1. **Python** (version 3.7 or later)
+1. **Python** (version 3.12.5)
 2. **MySQL** (for database management)
 
 ## Installation Guide
